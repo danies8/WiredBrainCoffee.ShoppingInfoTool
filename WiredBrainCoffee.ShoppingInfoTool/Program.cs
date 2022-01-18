@@ -7,7 +7,7 @@ namespace WiredBrainCoffee.ShoppingInfoTool
     {
         static void Main(string[] args)
         {
-            // master 10
+            // 10
 
 
 
