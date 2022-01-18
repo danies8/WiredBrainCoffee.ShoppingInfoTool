@@ -7,8 +7,7 @@ namespace WiredBrainCoffee.ShoppingInfoTool
     {
         static void Main(string[] args)
         {
-            // masterR
-
+            Console.WriteLine("MASTER");
 
 
 
