@@ -7,7 +7,7 @@ namespace WiredBrainCoffee.ShoppingInfoTool
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("master    ");
+            Console.WriteLine("master branch   ");
   
         }
     }
