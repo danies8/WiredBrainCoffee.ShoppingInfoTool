@@ -7,7 +7,7 @@ namespace WiredBrainCoffee.ShoppingInfoTool
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("FROM 1");
+            Console.WriteLine("FROM MASTER");
         }
     }
 }
