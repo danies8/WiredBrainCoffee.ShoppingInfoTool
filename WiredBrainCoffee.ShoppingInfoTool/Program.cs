@@ -9,5 +9,7 @@ namespace WiredBrainCoffee.ShoppingInfoTool
         {
             Console.WriteLine("10");
          }
+             Console.WriteLine("Master");
+        }
     }
 }
